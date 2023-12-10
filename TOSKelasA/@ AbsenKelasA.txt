@@ -4,18 +4,29 @@ PERATURAN PENGISIAN DATA: Jaga selalu agar urutan data di file ini sesuai dengan
 ...
 
 No Presensi: 03
-NIM: ...
-Nama: ...
-URL Repository: https://...
+NIM: 531421021
+Nama: Nadia Safitri
+URL Repository: https://github.com/08229131/nadia_project/tree/36f57ef63abe5ba0862b07cb49b5a16df7ce4523
 
 No Presensi: 04
 NIM: ...
 Nama: ...
 URL Repository:https://...
 
+No Presensi: 07
+NIM: 531422001
+Nama: Gina Mobonggi
+URL Repository: https://github.com/GinaMobonggi/Tugas-Opensource
+
+
 No Presensi: 08
 NIM: 531422002
 Nama: Nurfitria rizki ramadhini
 URL Repository: https://github.com/Nurfitriarizkiramadhini/Tugas-Open-Source
+=======
+
+
+=======
+
 
 ...
